@@ -5,7 +5,7 @@
     <em>CS Undergrad &nbsp;·&nbsp; IoT & Embedded Systems &nbsp;·&nbsp; DevOps & Cloud &nbsp;·&nbsp; Homelab Tinkerer</em>
   </p>
   <p>
-    I like building things, self-hosting them, and occasionally breaking them at 2 AM.
+    I like building things, self-hosting them, and fixing them.
   </p>
 </div>
 
@@ -17,11 +17,9 @@
 - 🔧 Passionate about **IoT, embedded systems, DevOps, and home server infrastructure**
 - 🐳 I self-host my own apps using **Docker, Cloudflare Tunnel, and GitHub workflows**
 - 🌐 Deeply interested in **computer networking** and how things connect at a low level
-- 🔍 Currently looking for a **summer internship (May–July 2026)** in DevOps / Cloud / Networking
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Infrastructure & DevOps**
 
@@ -52,26 +50,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mithun-08&show_icons=true&theme=default&hide_border=true&count_private=true" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-08&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ---
 
-## 📬 Connect
+## Connect
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mithunprabhur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:imithunprabhu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <sub>⚡ Always learning. Always building. Always self-hosting.</sub>
+  <sub> Always learning. Always building. Always self-hosting.</sub>
 </div>
