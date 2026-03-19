@@ -1,75 +1,18 @@
-<!-- Header -->
-<div align="center">
-  <h1>Hi, I'm Mithun 👋</h1>
-  <p>
-    <em>CS Undergrad &nbsp;·&nbsp; IoT & Embedded Systems &nbsp;·&nbsp; DevOps & Cloud &nbsp;·&nbsp; Homelab Tinkerer</em>
-  </p>
-  <p>
-    I like building things, self-hosting them, and fixing them.
-  </p>
-</div>
+# 💫 About Me:
+🔭 I'm currently working on self-hosted homelab projects with Docker & Cloudflare Tunnel<br>👯 I'm looking to collaborate on open-source DevOps or IoT projects<br>🤝 I'm looking for help with cloud certifications AWS<br>🌱 I'm currently learning CI/CD pipelines and cloud infrastructure<br>💬 Ask me about home servers, networking, and self-hosting<br>⚡ Fun fact I run my own server at home and host apps on a custom domain
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mithun._r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mithunprabhur) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mithunprabhur2006) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/longHairedJedai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imithunprabhu@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mithun-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mithun-08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mithun-08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About Me
-
-- 🎓 2nd-year Computer Science student based in **Chennai, India**
-- 🔧 Passionate about **IoT, embedded systems, DevOps, and home server infrastructure**
-- 🐳 I self-host my own apps using **Docker, Cloudflare Tunnel, and GitHub workflows**
-- 🌐 Deeply interested in **computer networking** and how things connect at a low level
----
-
-## Tech Stack
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Cloud & Networking**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Networking](https://img.shields.io/badge/Computer_Networking-00599C?style=flat-square&logo=cisco&logoColor=white)
-
-**Embedded & IoT**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Dev**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mithun-08&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-08&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
-
-## Connect
-
-<p>
-  <a href="https://linkedin.com/in/mithunprabhur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:imithunprabhu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<div align="center">
-  <sub> Always learning. Always building. Always self-hosting.</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
