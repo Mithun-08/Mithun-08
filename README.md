@@ -1,4 +1,4 @@
-<img src="https://readme-img.onrender.com/api/banner?username=Mithun-08&template=banner2&bg=dark&font=inter" alt="Mithun-08's GitHub Stats" />
+<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/9e373a9d-c8f1-40f2-89f9-0f3402208b33" />
 
 # 💫 About Me:
 🔭 I'm currently working on self-hosted homelab projects with Docker & Cloudflare Tunnel<br>👯 I'm looking to collaborate on open-source DevOps or IoT projects<br>🤝 I'm looking for help with cloud certifications AWS<br>🌱 I'm currently learning CI/CD pipelines and cloud infrastructure<br>💬 Ask me about home servers, networking, and self-hosting<br>⚡ Fun fact I run my own server at home and host apps on a custom domain
