@@ -6,7 +6,7 @@
 </div>
   
 # ⚡ About Me:
-I'm a CS Student who's still figuring it out — and that's kind of the point.
+I'm a CS Student who's **still figuring it out** — and that's kind of the point.
 
  - **Right now:** Tinkering with my homelab, poking around AWS, and seeing what breaks.
  - **What actually excites me:** Embedded systems and computer networks.
