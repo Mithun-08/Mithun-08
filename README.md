@@ -16,6 +16,5 @@
 
 # 📂 Repositories:
 <div align="center">
-<br>
   Scroll down to see what I've been building ↓
 </div>
